@@ -1,5 +1,8 @@
 # No-buy-detector Processor
 
+![Build status](https://github.com/projectriff-demo/no-buy-detector/workflows/CI/badge.svg)
+
+
 Build the Function:
 
 ```
